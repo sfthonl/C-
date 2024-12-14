@@ -11,10 +11,8 @@
 
 <h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Демонстрация и описание проекта</a></h2>
 
-## Инструменты для создания проекта
+#  Инструменты для создания проекта <h3>
 
-# **C++*
-
-
-## - **lib FLTK**
-<h1 style="font-size: 36px;">Heading 1</h1>
+- # *C++*
+   
+- # *lib FLTK*
