@@ -15,4 +15,4 @@
 
 - ## *C++*
    
-- ## *lib FLTK*
+- ## *FLTK lib*
