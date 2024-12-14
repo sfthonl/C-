@@ -1,6 +1,6 @@
 #Крестики-нолики
 ____
-[![Header]([https://github.com/sfthonl/C-/blob/main/mipt.jpg](https://github.com/sfthonl/C-/blob/main/mipt.png))]()
+[![Header](https://github.com/sfthonl/C-/blob/main/mipt.png]()
 
 About us
 
