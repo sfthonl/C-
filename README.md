@@ -6,6 +6,6 @@
 
 <h1 align="center">Демонстрация и описание проекта</h1>
   
-<span style="font-size: 10em;">Работу выполнили студенты группы Б03-416</span>
+<span style="font-size: 550em;">Работу выполнили студенты группы Б03-416</span>
 
 <span style="font-size: 13px;"> C++
