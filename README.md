@@ -13,7 +13,8 @@
 
 ## Инструменты для создания проекта
 
-##- **Click**
+<h2 style="font-size: 24px;">Click</h2>
+
 
 ## - **lib FLTK**
 <h1 style="font-size: 36px;">Heading 1</h1>
