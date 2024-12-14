@@ -13,7 +13,7 @@
 
 ## Инструменты для создания проекта
 
-## - **C++**
+- **Click**
 
 ## - **lib FLTK**
 <h1 style="font-size: 36px;">Heading 1</h1>
