@@ -43,4 +43,4 @@
   игровой процесс</h4>
 ## Демонстрация работы программы
 <p align="center">
-<img src="(https://github.com/sfthonl/C-/blob/main/gif.gif)" width="80%"></p>
+<img src="https://github.com/sfthonl/C-/blob/main/gif.gif" width="80%"></p>
