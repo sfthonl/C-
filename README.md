@@ -1,4 +1,4 @@
-[![Header]([https://github.com/sfthonl/C-/blob/main/mipt.jpg](https://github.com/sfthonl/C-/blob/main/mipt.jpg))]()
+[![Header]([https://github.com/sfthonl/C-/blob/main/mipt.jpg]]()
 
 About us
 
