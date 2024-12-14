@@ -4,8 +4,8 @@
 
 <p align = "center"> <span style="font-size: 10px;">Работу выполнили студенты группы Б03-416</span>
 
-<span style="font-size: 15px;">Работу выполнили студенты группы Б03-416</span>
-
+<p align = "center"> Демострация и описание проекта
+  
 <i>Инструменты для создания проекта: 
 
 <span style="font-size: 13px;"> C++
