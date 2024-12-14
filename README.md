@@ -9,9 +9,7 @@
 
 <h6 align="center">Работу выполнили студенты группы Б03-416</h6>
 
-<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>
-
-<h1 align="center">Демонстрация и описание проекта</h1>
+<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Демонстрация и описание проекта</a></h2>
 
 <p>Инструменты для создания проекта</p>
 
