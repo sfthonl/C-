@@ -13,6 +13,6 @@
 
 ## Инструменты для создания проекта
 
-<span style="font-size: 13px;"> C++</span>
+ - C++
 
 <h1 style="font-size: 36px;">Heading 1</h1>
