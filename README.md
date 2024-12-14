@@ -8,4 +8,4 @@
 
 <i>Инструменты для создания проекта: 
 
-<span style="font-size: 10px;"> <C++>
+<span style="font-size: 13px;"> C++
