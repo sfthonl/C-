@@ -11,6 +11,8 @@
 
 <h1 align="center">Демонстрация и описание проекта</h1>
 
+<h2></u>Инструменты для создания проекта</h2>
+
 <span style="font-size: 13px;"> C++</span>
 
 <h1 style="font-size: 36px;">Heading 1</h1>
