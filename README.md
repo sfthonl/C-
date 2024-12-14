@@ -42,3 +42,5 @@
   <h4>Создаёт окно для игры, запускает
   игровой процесс</h4>
 ## Демонстрация работы программы
+<p align="center">
+<img src="https://media.giphy.com/media/7OWdOQupgCClrZb19P/giphy.gif" width="80%"></p>
