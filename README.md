@@ -4,7 +4,7 @@
 
 <p align = "center"> <span style="font-size: 10px;">Работу выполнили студенты группы Б03-416</span>
 
-<h1 align="center"><span style="font-size: 15px;">Демонстрация и описание проекта</h1>
+<span style="font-size: 15px;">Работу выполнили студенты группы Б03-416</span>
 
 <i>Инструменты для создания проекта: 
 
