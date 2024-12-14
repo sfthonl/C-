@@ -1,3 +1,3 @@
 #Игра "Крестики-нолики"
 
-![logo](https://github.com/sfthonl/C-/blob/main/logo.jpg)
+![logo](https://www.ph4.org/_RU/DL/LOGO_ICON/m/mipt.gif)
