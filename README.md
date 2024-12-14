@@ -11,7 +11,7 @@
 
 <h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Демонстрация и описание проекта</a></h2>
 
-<p>Инструменты для создания проекта</p>
+## Инструменты для создания проекта
 
 <span style="font-size: 13px;"> C++</span>
 
