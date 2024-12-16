@@ -57,6 +57,7 @@ void Cell::cell_pushed(Fl_Widget *widget, void *data) {
 
     //game is over
     int game_over_id = check_pos_id;
+ 
     std::cout << "CASE GAME IS OVER\n";
     std::cout << "game_over_id: " << game_over_id << "\n"; 
     
