@@ -11,6 +11,7 @@ struct Cell{
   Fl_Button *button;
   static void cell_pushed(Fl_Widget *widget, void *data);
   Game *pointer_to_our_game;
+
   Cell(int X, int Y, Game *pointer_to_our_game);
   Cell(const Cell & ) = delete;
   ~Cell();
