@@ -62,7 +62,8 @@ int Board::check_pos(int x, int y)
         return 0;
 }
 
-void Board::clean_board(int board_size) {
+void Board::clean_board(int board_size) 
+{
   this->board.assign(board_size, std::vector <int> (board_size, 0));
   this->moved = 1;
   this->moves = 0;
